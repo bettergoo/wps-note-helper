@@ -1,5 +1,9 @@
 ![](./images/logo.png)
 
+[![Edge](./images/edge.svg)](https://microsoftedge.microsoft.com/addons/detail/ggjghjioanfhdpkhladphbacfmicmiih)
+[![Chrome](./images/chrome.svg)](https://chromewebstore.google.com/detail/wps便签助手/comnfhdcnamiakeikahbcbjldhbpmnhi)
+
+
 「WPS便签助手」是一款专为提升用户在「[WPS便签](WPS便签助手)」网站上浏览体验而设计的浏览器扩展。它通过智能识别并优化页面布局，为您带来更加清爽、专注的阅读和编辑环境。
 
 **🌠 遇见「WPS便签助手」，开启高效简洁的笔记体验！**
@@ -16,7 +20,8 @@ WPS便签助手将智能识别并优化页面布局，自动移除所有干扰�
 
 🌈 马上尝试「WPS便签助手」，让你的笔记生活更加高效和愉悦！
 
-🌐 浏览器扩展下载地址： 
+🌐 浏览器扩展下载地址： [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ggjghjioanfhdpkhladphbacfmicmiih)
+/ [Chrome Web Store](https://chromewebstore.google.com/detail/wps便签助手/comnfhdcnamiakeikahbcbjldhbpmnhi)
 
 ----
 
